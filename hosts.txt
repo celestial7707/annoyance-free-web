@@ -1,4 +1,4 @@
-# Comprehensive Blocklist for News Websites (Pi-hole format)
+# Blocklist for News Websites and Social Media
 0.0.0.0 *.cnn.com
 0.0.0.0 *.bbc.com
 0.0.0.0 *.nytimes.com
@@ -69,3 +69,11 @@
 0.0.0.0 *.hollywoodreporter.com
 0.0.0.0 *.indiewire.com
 0.0.0.0 *.pitchfork.com
+
+# Blocklist for Social Media
+0.0.0.0 *.facebook.com
+0.0.0.0 *.twitter.com
+0.0.0.0 *.instagram.com
+0.0.0.0 *.linkedin.com
+0.0.0.0 *.snapchat.com
+0.0.0.0 *.tiktok.com
